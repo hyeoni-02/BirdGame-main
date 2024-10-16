@@ -6,6 +6,7 @@ public class Wall : MonoBehaviour
 {
 
     public float speed=2;
+    public float speed=4;
 
     // Start is called before the first frame update
     void Start()
